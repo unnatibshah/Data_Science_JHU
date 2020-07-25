@@ -113,7 +113,6 @@ One type of data, that I work with regularly, is sequencing data. This data is g
 
 One rich source of information is country wide censuses. In these, almost all members of a country answer a set of standardized questions and submit these answers to the government. When you have that many respondants, the data is large and messy; but once this large database is ready to be queried, the answers embedded are important.Here we have a very basic result of the last US census - in which all respondants are divided by sex and age, and this distribution is plotted in this population pyramid plot.
 
-
 ![alt text](img/6.png)
 
 Here is the US census website and some tools to help you examine it, but if you aren’t from the US, I urge you to check out your home country’s census bureau (if available) and look at some of the data there!
