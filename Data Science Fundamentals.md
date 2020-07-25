@@ -2,11 +2,11 @@
 
 Data science can involve:
 
--Statistics, computer science, mathematics
+- Statistics, computer science, mathematics
 
--Data cleaning and formatting
+- Data cleaning and formatting
 
--Data visualization
+- Data visualization
 
 An Economist Special Report sums up this melange of skills well - they state that a data scientist is broadly defined as someone:
 
