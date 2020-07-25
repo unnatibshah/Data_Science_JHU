@@ -28,5 +28,7 @@ And this brings us to the second quality of big data: velocity. Data is being ge
 
 The third quality of big data is variety. In the examples I’ve mentioned so far, you have different types of data available to you. In the YouTube example, you could be analysing video or audio, which is a very unstructured data set, or you could have a database of video lengths, views or comments, which is a much more structured dataset to analyse.
 
+![alt text](img/1.png)
+
 
 
